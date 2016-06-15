@@ -1,0 +1,29 @@
+{
+  "name": "i18next-po-loader",
+  "version": "0.1.0",
+  "description": "Load gettext PO files as i18next format directly in webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/queicherius/i18next-po-loader.git"
+  },
+  "keywords": [
+    "i18next",
+    "webpack",
+    "loader",
+    "json",
+    "po"
+  ],
+  "author": "queicherius@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/queicherius/i18next-po-loader/issues"
+  },
+  "homepage": "https://github.com/queicherius/i18next-po-loader#readme",
+  "dependencies": {
+    "i18next-conv-inline": "^3.0.0"
+  }
+}

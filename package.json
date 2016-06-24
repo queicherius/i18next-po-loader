@@ -1,6 +1,6 @@
 {
   "name": "i18next-po-loader",
-  "version": "0.1.2",
+  "version": "1.0.0",
   "description": "Load gettext PO files as i18next format directly in webpack",
   "main": "index.js",
   "scripts": {

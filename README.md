@@ -12,8 +12,8 @@ npm install i18next-po-loader --save-dev
 
 ```js
 {
-  test: /\.po$/, 
-  loaders: ['i18next-po-loader']
+  test: /\.po$/,
+  loaders: ['i18next-po-loader-bkpr']
 }
 ```
 

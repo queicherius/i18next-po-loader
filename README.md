@@ -1,3 +1,7 @@
+### :boom: Careful: This package is no longer maintained and is only here for historic reasons. This means you should very likely not use it. You have been warned. :boom:
+
+---
+
 # i18next-po-loader
 
 > Load gettext PO files as [i18next](http://i18next.com/) format directly in webpack
